@@ -6,7 +6,7 @@ github release、archive以及项目文件的加速项目，支持clone，有Clo
 
 ## 演示
 
-[https://gh.api.99988866.xyz/](https://gh.api.99988866.xyz/)
+[https://github.cwy666.eu.org/](https://github.cwy666.eu.org/)
 
 演示站为公共服务，如有大规模使用需求请自行部署，演示站有点不堪重负
 
@@ -22,7 +22,7 @@ github release、archive以及项目文件的加速项目，支持clone，有Clo
 
 ## 使用
 
-直接在copy出来的url前加`https://gh.api.99988866.xyz/`即可
+直接在copy出来的url前加`https://github.cwy666.eu.org/`即可
 
 也可以直接访问，在input输入
 
